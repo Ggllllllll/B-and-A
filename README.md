@@ -1,4 +1,4 @@
-# :page_facing_up: Knowledge-fusion and Dual-loss Drive for Cross-domain Adaptive Medical Image Segmentation
+# :page_facing_up: Bridge-and-Anchor: Bidirectional Frequency Bridging and Prototype Anchoring for Stable Cross-Domain Medical Image Segmentation
 
 ### The code will be made public after the paper is accepted.
 
